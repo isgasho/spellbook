@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/license-MIT-blue.svg">
     </a>
     <a href="https://github.com/GouveaHeitor/spellbook/releases">
-      <img src="https://img.shields.io/badge/version-0.0.3-blue.svg">
+      <img src="https://img.shields.io/badge/version-0.0.5-blue.svg">
     </a>
   </p>
 </p>
@@ -36,7 +36,7 @@ The main focus of this "micro-framework" is to keep my personal scripts organize
 ### How to use
 
 ```bash
-Spellbook v0.0.4
+Spellbook v0.0.5
 Core Commands
 ==============
 	Command       Description
